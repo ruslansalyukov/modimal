@@ -10,4 +10,4 @@
 - JS
 
 
-[Смотреть демо](https://ruslansalyukov.github.io/modimal/)
+[Смотреть демо](https://RuslanSalyukov007.github.io/modimal/)
